@@ -1,0 +1,5 @@
+[Connector_Node]
+192.168.56.105
+
+[Compute_Node]
+192.168.56.105
